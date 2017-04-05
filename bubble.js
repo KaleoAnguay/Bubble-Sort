@@ -18,7 +18,6 @@ function bubble(arr) {
       break;
     }
   }
-  console.log(arr);
   return arr;
 
 }
